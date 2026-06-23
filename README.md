@@ -29,8 +29,6 @@ To add a new project, see [`WORKFLOW.md`](WORKFLOW.md) and start from [`TEMPLATE
 
 ## Skills demonstrated
 
-_Update this list as you go — it doubles as a quick reference for recruiters._
-
 - COMSOL Multiphysics (geometry, materials, boundary conditions, meshing, solvers)
 - Physics interfaces: _Heat Transfer, Solid Mechanics, Laminar Flow, ..._
 - Study types: stationary, time-dependent, parametric sweeps
