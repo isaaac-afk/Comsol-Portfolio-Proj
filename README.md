@@ -1,5 +1,6 @@
 # COMSOL Multiphysics Portfolio
 
+---
 A growing collection of finite-element simulation projects built in COMSOL Multiphysics. Each project is self-contained in its own folder with the model file (`.mph`) and an **inquiry document** that explains what the model does, how it was set up, and what the results mean.
 
 I'm a Biomedical Engineering student (Systems Design Engineering) at the University of Waterloo, using these projects to build practical multiphysics simulation skills — heat transfer, structural mechanics, fluid flow, electromagnetics, and their applications to biomedical and engineering problems.
