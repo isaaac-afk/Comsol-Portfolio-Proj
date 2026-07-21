@@ -6,7 +6,6 @@ A growing collection of finite-element simulation projects built in COMSOL Multi
 I'm a Biomedical Engineering student (Systems Design Engineering) at the University of Waterloo, using these projects to build practical multiphysics simulation skills — heat transfer, structural mechanics, fluid flow, electromagnetics, and their applications to biomedical and engineering problems.
 
 ---
-
 ## Projects
 
 | # | Project | Physics / Module | What it shows |
@@ -18,7 +17,6 @@ _New projects are added over time — even small experiments are documented._
 ---
 
 ## How this repo is organized
-
 Each project folder contains:
 - **`README.md`** — the inquiry document (objective, setup, results, interpretation)
 - **`<model>.mph`** — the COMSOL file itself
